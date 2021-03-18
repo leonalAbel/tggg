@@ -122,7 +122,7 @@
   }, {
     "url": "https://github.com/HasibulKabir/heroku-buildpack-rarlab"
   }, {
-    "url": "heroku/python"
+    "url": "https://github.com/heroku/heroku-buildpack-python.git"
   }],
   "formation": {
     "worker": {
